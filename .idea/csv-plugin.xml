@@ -3,21 +3,21 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\Detail_jeweller_fusing.csv">
+        <entry key="\data\Detail_jeweller_fusing.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\hardcore_trade.csv">
+        <entry key="\data\hardcore_trade.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\softcore_trade.csv">
+        <entry key="\data\softcore_trade.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
